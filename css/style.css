@@ -4,7 +4,7 @@
 
 /* Start Body */
 body {
-    background-color: rgba(255, 255, 0, 0.623);
+    background-color: whitesmoke;
     color: brown;
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -16,11 +16,11 @@ body {
 
 /*Start Debug */
 .bg-red {
-    background-color: rgb(255, 81, 0);
+    background-color: rgba(255, 166, 0, 0.678);
 }
 
 .bg-blue {
-    background-color: rgba(165, 42, 42, 0.473);
+    background-color:  rgba(255, 166, 0, 0.678);
 }
 /*End Debug */
 
@@ -32,7 +32,7 @@ body {
 }
 
 .container-full {
-    margin: 10 px auto;
+    margin: 10px auto;
     overflow: auto;
     width: 100%;
 }
@@ -46,7 +46,7 @@ body {
 
 /* Start Menu Primer */
 .menu-primer ul {
-    background-color: rgba(165, 42, 42, 0.466);
+    background-color: rgba(255, 166, 0, 0.678);
     border-radius: 4px;
     box-shadow:
     0 3px 5px -1px rgba(0,0,0.2),
@@ -55,7 +55,7 @@ body {
 }
 
 .menu-primer li {
-    border-right: 1px solid brown;
+    border-right: 1px solid rgba(255, 166, 0, 0.678);
     display: inline-block;
     margin: 0 -4px;
 }
@@ -110,7 +110,7 @@ h6{
 
 /* Start Jumbotron */
 .jumbotron {
-    background-color: rgba(255, 166, 0, 0.521);
+    background-color: rgba(255, 166, 0, 0.678);
     border: 1px solid white;
     border-radius: 4px;
     padding: 20px 0;
@@ -140,7 +140,7 @@ h6{
 /* Start Box */
 .box-heading {
     background-color: whitesmoke;
-    border: 1px solid yellow;
+    border: 1px solid rgba(255, 166, 0, 0.678);
     border-radius: 3px 3px 0 0;
     margin: 0;
     padding: 10px 20px;
@@ -152,8 +152,8 @@ h6{
 }
 
 .box-isi {
-    background-color:rgba(165, 42, 42, 0.301);
-    border: 1px solid yellow;
+    background-color:rgba(255, 166, 0, 0.678);
+    border: 1px solid rgba(255, 166, 0, 0.678);
     border-top: 0;
     margin: 0;
     padding: 10px 20px;
@@ -162,7 +162,7 @@ h6{
 
 /* Start Testimonials */
 .testimonial {
-    border-left: 4px solid brown;
+    border-left: 4px solid rgba(255, 166, 0, 0.678);
     margin-left: 30px;
     padding-left: 20px;
 }
@@ -170,7 +170,7 @@ h6{
 
 /* Start Table Menu */
 .table-menu {
-    border: 1px solid brown;
+    border: 1px solid rgba(255, 166, 0, 0.678);
     border-collapse: collapse;
     margin: auto;
     width: 100%;
@@ -185,9 +185,9 @@ h6{
 
 /* Start Menu Sekunder */
 .menu-sekunder {
-    background-color: rgba(165, 42, 42, 0.274);
-    border-bottom: 1px solid rgba(255, 255, 0, 0.322);
-    border-top: 1px solid rgba(255, 255, 0, 0.322);
+    background-color: rgba(255, 166, 0, 0.678);
+    border-bottom: 1px solid rgba(255, 166, 0, 0.678);
+    border-top: 1px solid rgba(255, 166, 0, 0.678);
     overflow: auto;
     padding; 10px 0;
 }
